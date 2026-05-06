@@ -196,6 +196,14 @@ For other distros, you'll need to build and install from source:
 
     Finally, install runtime dependency `ppp` or `pppd`.
 
+
+Windows (experimental)
+----------------------
+
+An experimental modern Windows launcher UI is available at
+`contrib/windows/OpenFortiVpn.Ui.ps1`. See `doc/windows.md` for setup and
+limitations.
+
 Running as root?
 ----------------
 
